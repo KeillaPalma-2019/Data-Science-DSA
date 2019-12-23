@@ -1,2 +1,2 @@
 # DS-Estudos
-Projetos DS 2019
+Projetos Data Science Academy 2019/2020
